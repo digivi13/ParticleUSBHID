@@ -14,3 +14,5 @@ This process can be represented in a flow diagram as follows:
 VBA Script in Excel -> API Request -> Particle Cloud -> Particle Photon (firmware) -> USB Device.
 
 The Particle Photon acts as a bridge between the VBA script and the USB device, allowing the keystrokes to be sent from Excel to the USB device.
+
+![image](https://user-images.githubusercontent.com/33264428/218277636-17184d09-7a9d-42f5-b5b1-b14521cbac7d.png)
