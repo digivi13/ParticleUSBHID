@@ -1,5 +1,7 @@
 # ParticleUSBHID
-A Microsoft excel sheet paired with the particle photon/electron microcontroller that can send text to one or multiple devices. Currently used to inject strings to an array of devices whos security prevents sending keystroke/device control using other methods
+A Microsoft excel sheet paired with the particle photon/electron microcontroller that can send text to one or multiple devices. Currently used to inject strings to an array of devices whos security prevents sending keystroke/device control using other methods. 
+
+The keyboard library is only compatible with particle Gen 2 devices (photon , electron , P1). Newer particle products (Argon , Boron, P2 ) do not support the USB HID behavior due to the the components used in production.
 
 The VBA script in Microsoft Excel is used to input data and make API requests to the Particle Cloud.
 The Particle Cloud receives the API request made by the VBA script and passes the data to the Particle Photon.
