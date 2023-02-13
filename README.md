@@ -1,5 +1,6 @@
 # ParticleUSBHID
-![image](https://user-images.githubusercontent.com/33264428/218349123-e2c53e30-c569-4eda-a1a1-fad27276308f.png)
+![image](https://user-images.githubusercontent.com/33264428/218351855-65b13cab-9dd1-4f62-a06c-fccf40091bc4.png)
+
 
 A Microsoft excel sheet paired with the particle photon/electron microcontroller that can send text to one or multiple devices. Currently used to inject strings to an array of devices whos security prevents sending keystroke/device control using other methods.   
 
