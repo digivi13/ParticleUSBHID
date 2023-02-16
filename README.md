@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/33264428/218351855-65b13cab-9dd1-4f62-a06c-fccf40091bc4.png)
 
 
-A Microsoft excel sheet paired with multiple particle photon/electron microcontroller that can send text via USB to the connected device. Currently used to inject strings to an array of devices whos security prevents sending keystroke/device control using other methods.   
+A Microsoft excel sheet paired with multiple particle photon/electron microcontrollers that can send text via USB to the connected device. Currently used to inject strings to an array of devices whos security prevents sending keystroke/device control using other methods.   
 
 The keyboard library is only compatible with particle Gen 2 devices (photon , electron , P1). Newer particle products (Argon , Boron, P2 ) do not support the USB HID behavior due to the the components used in production.
 
